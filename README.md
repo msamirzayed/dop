@@ -2,7 +2,7 @@
 
 demo version of dopamine store landing page
 
-# you can visit the demo version on
+# you can visit the demo version @
 
 https://msamirzayed.github.io/dop/
 
